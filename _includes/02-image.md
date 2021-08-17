@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Beta root - microscopic image](https://avatars.githubusercontent.com/u/70411777?v=4)
