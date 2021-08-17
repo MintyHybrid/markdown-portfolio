@@ -1,0 +1,1 @@
+Write out some of your :star: **awesome** attributes, and use __emphasis__ (like **bold** or *italics* or ~~striketrough~~ (which looks struckthrough [?! is that even a word ?! 😜] in code editor but does not when [preview]-rendered ).... uhm but apparently no underline here?!) to identify keywords, programming languages, or skills. 
